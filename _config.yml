@@ -26,7 +26,7 @@ baseurl: "/hellenthal-group" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sahwa
 remote_theme: broccolini/swiss
-theme_color: blue
+theme_color: black
 repository: sahwa/hellenthal-group
 
 # Build settings
