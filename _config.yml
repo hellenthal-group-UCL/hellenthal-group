@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: welcome to the hellenthal group website!
-email: ghellenthal@gmail.com
+title: hellenthal-group
+email: ghellenthal@gmail.co
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Hellenthal Group website! We are based in London, at UCL Genetics Institute. 
 baseurl: "/hellenthal-group" # the subpath of your site, e.g. /blog
@@ -42,7 +42,7 @@ defaults:
       layout: "post"
 input: GFM
 
-
+# theme: jekyll-theme-wallpaper-home
 
 # Exclude from processing.
 # The following items will not be processed, by default.
